@@ -11,6 +11,7 @@ public class BookApplication {
     public static final int MAX_BOOKS = 100;
 
     public static void main(String[] args) {
+
         int choice;
         do {
             Scanner sc = new Scanner(System.in);
